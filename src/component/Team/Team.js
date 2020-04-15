@@ -1,7 +1,8 @@
-import React, {useState} from 'react'
-import { Row, Col, Avatar, Typography, Form, Input, InputNumber, Button, Select } from 'antd';
+import React from 'react'
+import { Row, Col, Typography } from 'antd';
 import People from '../People/People';
-const { Title, Paragraph, Text } = Typography;
+import './Team.scss';
+const { Title } = Typography;
 
 export default function Team(props){
     let members = [
@@ -32,32 +33,33 @@ export default function Team(props){
         }
     ]
     return (
-        <div className='componentDiv'>
-           <Row>
-            <Title>Team Rocket Team</Title>
-           </Row>
-           <Row>
-               <Col>
-                    <People person={members[0]}/>
-               </Col>
-               <Col>
-                    <People person={members[1]}/>
-               </Col>
-           </Row>
-           <Row>
-               <Col>
-                    <People person={members[2]}/>
-               </Col>
-               <Col>
-                    <People person={members[3]}/>
-               </Col>
-           </Row>
-           <Row>
-               <Col>
-                    <People person={members[4]}/>
-               </Col>
-           </Row>
-           
+        <div className='team-wrapper'>
+            <div className='team'>
+               <Row>
+                   <Col span={8} />
+                   <Col span={8} style={{textAlign: 'center'}}>
+                        <Title level={2}>Team Rocket Team</Title>
+                   </Col>
+               </Row>
+               <Row>
+                   <Col span={4}>
+                        <People person={members[0]}/>
+                   </Col>
+                   <Col span={4}>
+                        <People person={members[1]}/>
+                   </Col>
+                   <Col span={4}>
+                       <People person={members[2]}/>
+                   </Col>
+                   <Col span={4}>
+                       <People person={members[3]}/>
+                   </Col>
+                   <Col span={4}>
+                       <People person={members[4]}/>
+                   </Col>
+                </Row>
+                <br/>
+            </div>
         </div>
     )
 }
