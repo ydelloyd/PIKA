@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/PIKA/static/css/main.5d994186.chunk.css",
+    "main.js": "/PIKA/static/js/main.222c7247.chunk.js",
+    "main.js.map": "/PIKA/static/js/main.222c7247.chunk.js.map",
+    "runtime-main.js": "/PIKA/static/js/runtime-main.b5bc1d25.js",
+    "runtime-main.js.map": "/PIKA/static/js/runtime-main.b5bc1d25.js.map",
+    "static/css/2.4b6e3ef2.chunk.css": "/PIKA/static/css/2.4b6e3ef2.chunk.css",
+    "static/js/2.e5280ff0.chunk.js": "/PIKA/static/js/2.e5280ff0.chunk.js",
+    "static/js/2.e5280ff0.chunk.js.map": "/PIKA/static/js/2.e5280ff0.chunk.js.map",
+    "index.html": "/PIKA/index.html",
+    "precache-manifest.ee8813fea441dc967784bd8c127a35ee.js": "/PIKA/precache-manifest.ee8813fea441dc967784bd8c127a35ee.js",
+    "service-worker.js": "/PIKA/service-worker.js",
+    "static/css/2.4b6e3ef2.chunk.css.map": "/PIKA/static/css/2.4b6e3ef2.chunk.css.map",
+    "static/css/main.5d994186.chunk.css.map": "/PIKA/static/css/main.5d994186.chunk.css.map",
+    "static/js/2.e5280ff0.chunk.js.LICENSE.txt": "/PIKA/static/js/2.e5280ff0.chunk.js.LICENSE.txt",
+    "static/media/loading.gif": "/PIKA/static/media/loading.5dd02025.gif",
+    "static/media/logo.png": "/PIKA/static/media/logo.1519d9e1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5bc1d25.js",
+    "static/css/2.4b6e3ef2.chunk.css",
+    "static/js/2.e5280ff0.chunk.js",
+    "static/css/main.5d994186.chunk.css",
+    "static/js/main.222c7247.chunk.js"
+  ]
+}
