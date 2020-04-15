@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PIKA/static/css/main.23c58eb7.chunk.css",
-    "main.js": "/PIKA/static/js/main.b2734284.chunk.js",
-    "main.js.map": "/PIKA/static/js/main.b2734284.chunk.js.map",
+    "main.js": "/PIKA/static/js/main.a7ede99d.chunk.js",
+    "main.js.map": "/PIKA/static/js/main.a7ede99d.chunk.js.map",
     "runtime-main.js": "/PIKA/static/js/runtime-main.d7b9f349.js",
     "runtime-main.js.map": "/PIKA/static/js/runtime-main.d7b9f349.js.map",
     "static/css/2.d788185a.chunk.css": "/PIKA/static/css/2.d788185a.chunk.css",
     "static/js/2.bc954451.chunk.js": "/PIKA/static/js/2.bc954451.chunk.js",
     "static/js/2.bc954451.chunk.js.map": "/PIKA/static/js/2.bc954451.chunk.js.map",
     "index.html": "/PIKA/index.html",
-    "precache-manifest.8a40fb7ce92aff128516df8675920314.js": "/PIKA/precache-manifest.8a40fb7ce92aff128516df8675920314.js",
+    "precache-manifest.e292334fdfd04b6bfce1ede91b559cfc.js": "/PIKA/precache-manifest.e292334fdfd04b6bfce1ede91b559cfc.js",
     "service-worker.js": "/PIKA/service-worker.js",
     "static/css/2.d788185a.chunk.css.map": "/PIKA/static/css/2.d788185a.chunk.css.map",
     "static/css/main.23c58eb7.chunk.css.map": "/PIKA/static/css/main.23c58eb7.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.d788185a.chunk.css",
     "static/js/2.bc954451.chunk.js",
     "static/css/main.23c58eb7.chunk.css",
-    "static/js/main.b2734284.chunk.js"
+    "static/js/main.a7ede99d.chunk.js"
   ]
 }
