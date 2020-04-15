@@ -13,7 +13,7 @@ function App() {
           <div className='PIKA'>
               <NavTop/>
               <Switch>
-                  <Route exact path='/'>
+                  <Route exact path='/PIKA'>
                      <MainPage />
                   </Route>
                   <Route exact path='/document'>

@@ -10,7 +10,7 @@ export default function MainPage (){
     const [parallelData, setParallelData] = useState([]);
 
     const [count, ] = useState(0);
-
+    console.log('main');
     useEffect (  () => {
        const fetchData = async () => {
             const result = await fetch('https://cors-anywhere.herokuapp.com/https://team-rocket-svc.herokuapp.com/get_attributes_mapping')
